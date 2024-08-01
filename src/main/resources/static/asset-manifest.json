@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59a2234f.css",
+    "main.js": "/static/js/main.7e83b4d3.js",
+    "static/js/453.c548d9cb.chunk.js": "/static/js/453.c548d9cb.chunk.js",
+    "static/media/light-curtain-banner2.jpg": "/static/media/light-curtain-banner2.75a27ba84ecbcf5df06d.jpg",
+    "static/media/rajmahal-logo.jpg": "/static/media/rajmahal-logo.5ab14fa45fcc7757b79d.jpg",
+    "index.html": "/index.html",
+    "main.59a2234f.css.map": "/static/css/main.59a2234f.css.map",
+    "main.7e83b4d3.js.map": "/static/js/main.7e83b4d3.js.map",
+    "453.c548d9cb.chunk.js.map": "/static/js/453.c548d9cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a2234f.css",
+    "static/js/main.7e83b4d3.js"
+  ]
+}
